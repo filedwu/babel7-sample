@@ -1,0 +1,1 @@
+a demo use bable7 to translate js
